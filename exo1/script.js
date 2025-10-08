@@ -5,3 +5,6 @@ if (heure < 12) {
 } else {
   console.log("Bon après-midi !");
 }
+
+
+console.log("Ceci est une ligne de code JavaScript !");
